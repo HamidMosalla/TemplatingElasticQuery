@@ -1,0 +1,17 @@
+C:\Users\Hamid\source\repos\TemplatingPrototype\bin\Debug\netcoreapp3.1\ElasticQueryTemplating.exe
+C:\Users\Hamid\source\repos\TemplatingPrototype\bin\Debug\netcoreapp3.1\ElasticQueryTemplating.deps.json
+C:\Users\Hamid\source\repos\TemplatingPrototype\bin\Debug\netcoreapp3.1\ElasticQueryTemplating.runtimeconfig.json
+C:\Users\Hamid\source\repos\TemplatingPrototype\bin\Debug\netcoreapp3.1\ElasticQueryTemplating.runtimeconfig.dev.json
+C:\Users\Hamid\source\repos\TemplatingPrototype\bin\Debug\netcoreapp3.1\ElasticQueryTemplating.dll
+C:\Users\Hamid\source\repos\TemplatingPrototype\bin\Debug\netcoreapp3.1\ElasticQueryTemplating.pdb
+C:\Users\Hamid\source\repos\TemplatingPrototype\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\Hamid\source\repos\TemplatingPrototype\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\Hamid\source\repos\TemplatingPrototype\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hamid\source\repos\TemplatingPrototype\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hamid\source\repos\TemplatingPrototype\obj\Debug\netcoreapp3.1\ElasticQueryTemplating.AssemblyInfoInputs.cache
+C:\Users\Hamid\source\repos\TemplatingPrototype\obj\Debug\netcoreapp3.1\ElasticQueryTemplating.AssemblyInfo.cs
+C:\Users\Hamid\source\repos\TemplatingPrototype\obj\Debug\netcoreapp3.1\ElasticQueryTemplating.csproj.CoreCompileInputs.cache
+C:\Users\Hamid\source\repos\TemplatingPrototype\obj\Debug\netcoreapp3.1\ElasticQueryTemplating.csproj.CopyComplete
+C:\Users\Hamid\source\repos\TemplatingPrototype\obj\Debug\netcoreapp3.1\ElasticQueryTemplating.dll
+C:\Users\Hamid\source\repos\TemplatingPrototype\obj\Debug\netcoreapp3.1\ElasticQueryTemplating.pdb
+C:\Users\Hamid\source\repos\TemplatingPrototype\obj\Debug\netcoreapp3.1\ElasticQueryTemplating.genruntimeconfig.cache

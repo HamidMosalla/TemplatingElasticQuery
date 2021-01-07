@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jvvc8CxVTsjUzRmGyJ5RpSAo9zoIM5AlRvBdm8LnF/i5gBrhaJJlofo5QPP5XqJrJ8nW6Ynh18pY8TQ98q+TKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hamid\\source\\repos\\TemplatingPrototype\\ElasticQueryTemplating.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hamid\\.nuget\\packages\\elasticsearch.net\\7.10.1\\elasticsearch.net.7.10.1.nupkg.sha512",
+    "C:\\Users\\Hamid\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Hamid\\.nuget\\packages\\nest\\7.10.1\\nest.7.10.1.nupkg.sha512",
+    "C:\\Users\\Hamid\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Hamid\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Hamid\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
