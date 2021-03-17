@@ -56,7 +56,7 @@ namespace TemplatingPrototype
                     )
                 );
 
-            var template = client.RequestResponseSerializer.SerializeToString(query);
+            var finalQuery = client.RequestResponseSerializer.SerializeToString(query);
         }
 
         static void Main(string[] args)
